@@ -11,3 +11,7 @@ A Weather App from scratch. Made with [WeatherBit API](https://www.weatherbit.io
 ---
 
 ### How does it look?
+
+
+https://user-images.githubusercontent.com/83390653/199250219-86563590-56fd-4f9b-b180-7c44436565e3.mp4
+
